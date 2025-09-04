@@ -118,9 +118,38 @@
               "icon": "lucide-file",
               "title": "BCP - Business Continuity Plan"
             }
+          },
+          {
+            "id": "36a759d76f898568",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "2. Sources/CISA/Glosario de CISA.md",
+                "bFile": "2. Sources/CISA/Glosario de CISA.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Glosario de CISA"
+            }
+          },
+          {
+            "id": "930e24c01f33dcf8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "0. Scratch/Glosario/Backup.md",
+                "bFile": "0. Scratch/Glosario/Backup.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Backup"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +235,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCP - Business Continuity Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BCP - Business Continuity Plan"
+              "title": "Backlinks"
             }
           },
           {
@@ -254,13 +282,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCP - Business Continuity Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BCP - Business Continuity Plan"
+              "title": "Outline"
             }
           },
           {
@@ -292,10 +319,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d01ae9834a39bd4",
+  "active": "930e24c01f33dcf8",
   "lastOpenFiles": [
-    "BCP - Business Continuity Plan.md",
     "2. Sources/CISA/Glosario de CISA.md",
+    "conflict-files-obsidian-git.md",
+    "BCP - Business Continuity Plan.md",
+    "Procesos de Ejecución.md",
+    "AUP - Acceptable use Policy.md",
+    "0. Scratch/Glosario/Balanced socorecard (BSC).md",
+    "0. Scratch/Glosario/Backup.md",
     "Business Case.md",
     "Brouter.md",
     "Broadband.md",
@@ -315,11 +347,6 @@
     "4. Indexes/Calidad de Producto.md",
     "1. Ideas/Diseño basado en Clases.md",
     "1. Ideas/Diseño por casos de uso.md",
-    "1. Ideas/Diseño Orientado a Objetos.md",
-    "0. Scratch/Glosario/Diagrama de Casos de Uso.md",
-    "1. Ideas/Administración de la Estructura de Software.md",
-    "1. Ideas/ADL , Lenguaje de Descripción de Arquitectura.md",
-    "4. Indexes/Diseño y Arquitectura de Software.md",
     "2. Sources/Investigación Informal",
     "2. Sources/Articulos",
     "2. Sources/CISA",

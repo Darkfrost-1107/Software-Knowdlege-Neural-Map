@@ -33,7 +33,9 @@ Tipo: #Terminología
 * [[Brouter]]
 * [[Business Case]]
 * [[BCP - Business Continuity Plan]]
-* 
+* [[BIA - Business impact analysis]]
+* [[Business process reengineering]]
+* [[Business risk]]
 ## C
 ## D
 ## F
