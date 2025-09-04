@@ -1,4 +1,5 @@
 Ya me acorde por que me era dificil tomar notas en clase se Zarate XDDDd sjajajsajjas
+// Todavía no se donde ponerlo XD
 
 * Ciberseguridad
 * Fedatario Informático
@@ -33,7 +34,8 @@ Otras organizaciones
 * Sociedad de Auditores (SOA)
 * CISA / ISACA
 
-Lo mas importante son las acreditaciones y consolidaziones en el mundo de la calidad en la auditoría
+Lo mas importante son las acreditaciones y consolidaciones en el mundo de la calidad en la auditoría
 
 Roles de Trabajo
 * Perito Judicial
+* ...

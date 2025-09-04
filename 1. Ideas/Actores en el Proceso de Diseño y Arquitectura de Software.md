@@ -1,3 +1,6 @@
+> Idea
+---
+
 Tags: [[Diseño y Arquitectura de Software]], [[Roles y Funciones]]
 # Actores principales
 * [[Dueño del Producto]]: 

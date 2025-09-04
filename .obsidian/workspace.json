@@ -16,8 +16,24 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "5ba4adc1aa6a475d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Untitled.base",
+                "bFile": "AAA - Buscador.base",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: AAA - Buscador.base"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,43 +203,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ae5ea90a888d6c6",
+  "active": "5ba4adc1aa6a475d",
   "lastOpenFiles": [
-    "Arquitectura centrada a los datos.md",
-    "3. Tags/Diseño y Arquitectura de Software.md",
-    "1. Ideas/Principales Hints para Diseñar Arquitecturas.md",
-    "1. Ideas/Estructuras de Software.md",
-    "3. Tags/procesos de software.md",
-    "Untitled.base",
-    "Arquitectura Maestro - Esclavo.md",
-    "Arquitectura por tuberías y Filtros.md",
-    "Análisis Orientado a Objetos.md",
-    "Actores de Gestión de la Integración de Proyectos.md",
-    "Arquitectura Jerárquica.md",
-    "Modelos de Arquitectura de Software.md",
-    "Vista de Desarrollo.md",
-    "Relaciones.md",
-    "Procesos de Ejecución.md",
-    "Arquitectura orientada al flujo de datos.md",
-    "Arquitectura en Capas.md",
-    "Apuntes de Clase.md",
-    "Arquitectura de Pizarra.md",
-    "Calidad de Producto.md",
-    "ADL , Lenguaje de Descripción de Arquitectura.md",
-    "3. Tags/Auditoría de Sistemas.md",
-    "Diseño basado en Clases.md",
-    "3. Tags/Calidad de Software.md",
-    "Lotes Secuenciales.md",
-    "Buffers.md",
-    "I/O Streams.md",
-    "I",
-    "Archivos OwO.base",
-    "Untitled",
-    "6. Templates",
-    "5. Main Ideas",
+    "conflict-files-obsidian-git.md",
+    "Hello World.md",
+    "Apuntes de Clase ( Auditoria ).md",
+    "AAA - Buscador.base",
+    "6. Templates/Sources/Terminology Template.md",
+    "6. Templates/Sources",
+    "4. Indexes/Diseño y Arquitectura de Software.md",
+    "4. Indexes/Calidad de Software.md",
+    "4. Indexes/Gestión de Proyectos.md",
+    "4. Indexes/Auditoría de Sistemas.md",
+    "4. Indexes/Calidad de Producto.md",
+    "4. Indexes/Calidad de Procesos.md",
     "4. Indexes",
-    "3. Tags",
-    "2. Sources",
-    "1. Ideas"
+    "2. Sources/PMBoK 6ma edición.md",
+    "2. Sources/Investigación Informal/Modelo de Madurez de Capacidades.md",
+    "2. Sources/Investigación Informal",
+    "2. Sources/CISA/Glosario de CISA.md",
+    "2. Sources/CISA/Acronimos de CISA.md",
+    "2. Sources/CISA",
+    "2. Sources/Articulos/Measuring and Improving Agile Processes in a Small-Size Software Development Company.md",
+    "2. Sources/Articulos/Perceived Importance of Metrics for Agile Scrum Environments.md",
+    "2. Sources/Articulos",
+    "1. Ideas/Vista de Procesos.md",
+    "1. Ideas/Vista de Desarrollo.md",
+    "1. Ideas/Vista Lógica.md",
+    "1. Ideas/Vista Física.md",
+    "1. Ideas/Software como Producto.md",
+    "1. Ideas/Modelos de Arquitectura de Software.md",
+    "1. Ideas/Lotes Secuenciales.md",
+    "1. Ideas/INACAL - Instituto Nacional de Calidad.md",
+    "1. Ideas/I-O Streams.md",
+    "1. Ideas/Escenarios de Uso.md",
+    "0. Scratch/Glosario",
+    "Untitled.base",
+    "I",
+    "Archivos OwO.base"
   ]
 }
