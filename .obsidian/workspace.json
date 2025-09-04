@@ -8,32 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ae5ea90a888d6c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
             "id": "5ba4adc1aa6a475d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Untitled.base",
-                "bFile": "AAA - Buscador.base",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "2. Sources/CISA/Glosario de CISA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: AAA - Buscador.base"
+              "icon": "lucide-file",
+              "title": "Glosario de CISA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -103,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 252.5
   },
   "right": {
     "id": "f7a2b0285920d119",
@@ -189,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,13 +193,28 @@
   },
   "active": "5ba4adc1aa6a475d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Hello World.md",
+    "0. Scratch/Glosario/Buffers.md",
+    "0. Scratch/Glosario/Balanced socorecard (BSC).md",
+    "0. Scratch/Glosario/Capacidad de Trabajo.md",
+    "0. Scratch/Glosario/Backup.md",
+    "2. Sources/CISA/Glosario de CISA.md",
+    "Procesos de Ejecución.md",
+    "2. Sources/CISA/Acronimos de CISA.md",
+    "AUP - Acceptable use Policy.md",
+    "Backup..md",
+    "Bas-.....md",
     "Apuntes de Clase ( Auditoria ).md",
     "AAA - Buscador.base",
+    "Administrative Controls.md",
+    "0. Scratch/Glosario/I-O Files.md",
+    "0. Scratch/Glosario/Diagrama de Casos de Uso.md",
+    "0. Scratch/Glosario/Arquitectura de Pizarra.md",
+    "0. Scratch/Glosario/Arquitecto del Producto.md",
+    "Hello World.md",
+    "4. Indexes/Diseño y Arquitectura de Software.md",
+    "conflict-files-obsidian-git.md",
     "6. Templates/Sources/Terminology Template.md",
     "6. Templates/Sources",
-    "4. Indexes/Diseño y Arquitectura de Software.md",
     "4. Indexes/Calidad de Software.md",
     "4. Indexes/Gestión de Proyectos.md",
     "4. Indexes/Auditoría de Sistemas.md",
@@ -219,24 +222,9 @@
     "4. Indexes/Calidad de Procesos.md",
     "4. Indexes",
     "2. Sources/PMBoK 6ma edición.md",
-    "2. Sources/Investigación Informal/Modelo de Madurez de Capacidades.md",
     "2. Sources/Investigación Informal",
-    "2. Sources/CISA/Glosario de CISA.md",
-    "2. Sources/CISA/Acronimos de CISA.md",
     "2. Sources/CISA",
-    "2. Sources/Articulos/Measuring and Improving Agile Processes in a Small-Size Software Development Company.md",
-    "2. Sources/Articulos/Perceived Importance of Metrics for Agile Scrum Environments.md",
     "2. Sources/Articulos",
-    "1. Ideas/Vista de Procesos.md",
-    "1. Ideas/Vista de Desarrollo.md",
-    "1. Ideas/Vista Lógica.md",
-    "1. Ideas/Vista Física.md",
-    "1. Ideas/Software como Producto.md",
-    "1. Ideas/Modelos de Arquitectura de Software.md",
-    "1. Ideas/Lotes Secuenciales.md",
-    "1. Ideas/INACAL - Instituto Nacional de Calidad.md",
-    "1. Ideas/I-O Streams.md",
-    "1. Ideas/Escenarios de Uso.md",
     "0. Scratch/Glosario",
     "Untitled.base",
     "I",
