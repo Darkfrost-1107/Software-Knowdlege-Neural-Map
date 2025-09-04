@@ -1,0 +1,2 @@
+Un método que utiliza la reutilización según ciertos criterios expertos del diseñador
+Para desarrollar un producto se puede visualizar una MODULACIÓN del mismo lo que permite que la arquitectura también se puede MODULARIZAR

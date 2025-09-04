@@ -1,0 +1,1 @@
+Transmiten la Información de forma paralela

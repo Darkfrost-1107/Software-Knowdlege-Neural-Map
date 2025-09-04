@@ -1,0 +1,1 @@
+Un almacenamiento de datos encargado de almacenar, y distribuir datos
