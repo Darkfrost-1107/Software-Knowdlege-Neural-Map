@@ -1,0 +1,1 @@
+Un enfoque de testing que se centra en la funcionalidad de un producto o servicio y no requiere de conocimiento técnico

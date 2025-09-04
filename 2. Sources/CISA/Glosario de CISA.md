@@ -24,6 +24,16 @@ Tipo: #Terminología
 * [[Audit Trail]]
 * [[Authentication]]
 ## B
+* [[Backup]]
+* [[BSC - Balanced Scorecard]]
+* [[Benchmarking]]
+* [[Biometrics]]
+* [[Black Box Testing]]
+* [[Broadband]]
+* [[Brouter]]
+* [[Business Case]]
+* [[BCP - Business Continuity Plan]]
+* 
 ## C
 ## D
 ## F
