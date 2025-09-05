@@ -11,14 +11,10 @@
             "id": "b43db5479a20a7bb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "API - Application Programming Interface.md",
-                "bFile": "API - Application Programming Interface.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: API - Application Programming Interface"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
