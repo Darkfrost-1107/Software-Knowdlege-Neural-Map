@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: Glosario de CISA"
             }
+          },
+          {
+            "id": "6840b624b2b88d47",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +206,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23e21d96cff2bd32",
+  "active": "6840b624b2b88d47",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Desarrollo en Nuevas Plataformas.md",
+    "Constructor del Producto.md",
+    "Capa de Atributos.md",
+    "API - Application Programming Interface.md",
+    "0. Scratch/Glosario/Business Case.md",
+    "0. Scratch/Glosario/Brouter.md",
+    "0. Scratch/Glosario/Broadband.md",
+    "0. Scratch/Glosario/Black Box Testing.md",
+    "0. Scratch/Glosario/Biometrics.md",
+    "0. Scratch/Glosario/Benchmarking.md",
+    "0. Scratch/Glosario/Backup 1.md",
+    "0. Scratch/Glosario/BSC - Balanced Scorecard.md",
+    "0. Scratch/Glosario/BCP - Business Continuity Plan.md",
+    "0. Scratch/Glosario/AUP - Acceptable use Policy.md",
     "BCP - Business Continuity Plan.md",
     "2. Sources/CISA/Glosario de CISA.md",
     "0. Scratch/Glosario/I-O Files.md",
@@ -200,25 +230,10 @@
     "4. Indexes/Calidad de Software.md",
     "4. Indexes/Auditoría de Sistemas.md",
     "2. Sources/CISA/Acronimos de CISA.md",
-    "conflict-files-obsidian-git.md",
     "Procesos de Ejecución.md",
     "AUP - Acceptable use Policy.md",
     "0. Scratch/Glosario/Balanced socorecard (BSC).md",
     "0. Scratch/Glosario/Backup.md",
-    "Business Case.md",
-    "Brouter.md",
-    "Broadband.md",
-    "Black Box Testing.md",
-    "Biometrics.md",
-    "Benchmarking.md",
-    "BSC - Balanced Scorecard.md",
-    "Backup.md",
-    "0. Scratch/Flexibilidad de especificación.md",
-    "0. Scratch/Glosario/Relaciones.md",
-    "1. Ideas/Software como Producto.md",
-    "2. Sources/PMBoK 6ma edición.md",
-    "1. Ideas/I-O Streams.md",
-    "1. Ideas/Hidoka.md",
     "2. Sources/Investigación Informal",
     "2. Sources/Articulos",
     "2. Sources/CISA",

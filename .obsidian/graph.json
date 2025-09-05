@@ -4,33 +4,48 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"4. Indexes\"  ",
       "color": {
         "a": 1,
-        "rgb": 3669760
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"2. Sources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
+    },
+    {
+      "query": "path:\"1. Ideas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"0. Scratch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16336968
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.932796257796258,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 15.5405405405405,
   "linkStrength": 1,
-<<<<<<< HEAD
-  "linkDistance": 36,
-  "scale": 0.054336366466290205,
-  "close": true
-=======
-  "linkDistance": 250,
-  "scale": 0.2588386562181625,
+  "linkDistance": 149,
+  "scale": 0.17319884583789283,
   "close": false
->>>>>>> origin/main
 }
