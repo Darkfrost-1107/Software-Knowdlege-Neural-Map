@@ -4,152 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba8ef6650878c70",
+        "id": "cf6669f69bd9dccc",
         "type": "tabs",
         "children": [
           {
-            "id": "574ad1446f4e994a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Sources/CISA/Acronimos de CISA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acronimos de CISA"
-            }
-          },
-          {
-            "id": "8903e97c7e4c24ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Sources/CISA/Glosario de CISA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glosario de CISA"
-            }
-          },
-          {
-            "id": "2521ed48c2580255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Indexes/Auditoría de Sistemas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auditoría de Sistemas"
-            }
-          },
-          {
-            "id": "f3bc5bbce779b9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Indexes/Calidad de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calidad de Software"
-            }
-          },
-          {
-            "id": "8937604792735318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Sources/Articulos/Measuring and Improving Agile Processes in a Small-Size Software Development Company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Measuring and Improving Agile Processes in a Small-Size Software Development Company"
-            }
-          },
-          {
-            "id": "977981e794c2b158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Scratch/Glosario/I-O Files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I-O Files"
-            }
-          },
-          {
-            "id": "19a4030a8f668854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Sources/CISA/Glosario de CISA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glosario de CISA"
-            }
-          },
-          {
-            "id": "8d01ae9834a39bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BCP - Business Continuity Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BCP - Business Continuity Plan"
-            }
-          },
-          {
-            "id": "36a759d76f898568",
+            "id": "b43db5479a20a7bb",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "2. Sources/CISA/Glosario de CISA.md",
-                "bFile": "2. Sources/CISA/Glosario de CISA.md",
+                "aFile": "API - Application Programming Interface.md",
+                "bFile": "API - Application Programming Interface.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Glosario de CISA"
-            }
-          },
-          {
-            "id": "930e24c01f33dcf8",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "0. Scratch/Glosario/Backup.md",
-                "bFile": "0. Scratch/Glosario/Backup.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Backup"
+              "title": "Diff: API - Application Programming Interface"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930e24c01f33dcf8",
+  "active": "b43db5479a20a7bb",
   "lastOpenFiles": [
+    "1. Ideas/Modelos de Arquitectura de Software.md",
+    "4. Indexes/Diseño y Arquitectura de Software.md",
+    "2. Sources/CISA/Acronimos de CISA.md",
     "2. Sources/CISA/Glosario de CISA.md",
-    "conflict-files-obsidian-git.md",
-    "BCP - Business Continuity Plan.md",
+    "4. Indexes/Auditoría de Sistemas.md",
+    "4. Indexes/Calidad de Software.md",
+    "2. Sources/Articulos/Measuring and Improving Agile Processes in a Small-Size Software Development Company.md",
+    "0. Scratch/Glosario/I-O Files.md",
+    "0. Scratch/Glosario/BCP - Business Continuity Plan.md",
+    "0. Scratch/Glosario/Multiplicidad.md",
+    "API - Application Programming Interface.md",
+    "Constructor del Producto.md",
+    "Capa de Atributos.md",
+    "Apuntes de Clase ( Auditoria ).md",
     "Procesos de Ejecución.md",
-    "AUP - Acceptable use Policy.md",
+    "0. Scratch/Glosario/AUP - Acceptable use Policy.md",
+    "conflict-files-obsidian-git.md",
     "0. Scratch/Glosario/Balanced socorecard (BSC).md",
     "0. Scratch/Glosario/Backup.md",
-    "Business Case.md",
-    "Brouter.md",
-    "Broadband.md",
-    "Black Box Testing.md",
-    "Biometrics.md",
-    "Benchmarking.md",
-    "BSC - Balanced Scorecard.md",
-    "Backup.md",
-    "2. Sources/CISA/Acronimos de CISA.md",
-    "0. Scratch/Flexibilidad de especificación.md",
-    "0. Scratch/Glosario/Relaciones.md",
-    "1. Ideas/Software como Producto.md",
-    "2. Sources/PMBoK 6ma edición.md",
-    "1. Ideas/I-O Streams.md",
-    "0. Scratch/Glosario/I-O Files.md",
-    "1. Ideas/Hidoka.md",
-    "4. Indexes/Calidad de Producto.md",
-    "1. Ideas/Diseño basado en Clases.md",
-    "1. Ideas/Diseño por casos de uso.md",
+    "0. Scratch/Glosario/Business Case.md",
+    "0. Scratch/Glosario/Brouter.md",
+    "0. Scratch/Glosario/Broadband.md",
+    "0. Scratch/Glosario/Black Box Testing.md",
+    "0. Scratch/Glosario/Biometrics.md",
+    "0. Scratch/Glosario/Benchmarking.md",
+    "0. Scratch/Glosario/BSC - Balanced Scorecard.md",
     "2. Sources/Investigación Informal",
     "2. Sources/Articulos",
     "2. Sources/CISA",
