@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "65d97fd03a9b677a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo en Nuevas Plataformas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desarrollo en Nuevas Plataformas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43db5479a20a7bb",
+  "active": "65d97fd03a9b677a",
   "lastOpenFiles": [
+    "Desarrollo en Nuevas Plataformas.md",
     "1. Ideas/Modelos de Arquitectura de Software.md",
     "4. Indexes/Diseño y Arquitectura de Software.md",
     "2. Sources/CISA/Acronimos de CISA.md",
@@ -214,7 +230,6 @@
     "0. Scratch/Glosario/Black Box Testing.md",
     "0. Scratch/Glosario/Biometrics.md",
     "0. Scratch/Glosario/Benchmarking.md",
-    "0. Scratch/Glosario/BSC - Balanced Scorecard.md",
     "2. Sources/Investigación Informal",
     "2. Sources/Articulos",
     "2. Sources/CISA",
