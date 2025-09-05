@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "65d97fd03a9b677a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo en Nuevas Plataformas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desarrollo en Nuevas Plataformas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,12 +187,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d97fd03a9b677a",
+  "active": "b43db5479a20a7bb",
   "lastOpenFiles": [
-    "Desarrollo en Nuevas Plataformas.md",
+    "2. Sources/PMI/PMBoK 6ma edición.md",
+    "2. Sources/CISA/Acronimos de CISA.md",
+    "2. Sources/PMI",
+    "Arquitectura de Aplicaciones Móbiles.md",
+    "Arquitecturas",
+    "4. Indexes/Desarrollo en Nuevas Plataformas.md",
+    "Hello World.md",
+    "Procesos de Ejecución.md",
+    "Constructor del Producto.md",
+    "Capa de Atributos.md",
+    "Apuntes de Clase ( Auditoria ).md",
     "1. Ideas/Modelos de Arquitectura de Software.md",
     "4. Indexes/Diseño y Arquitectura de Software.md",
-    "2. Sources/CISA/Acronimos de CISA.md",
     "2. Sources/CISA/Glosario de CISA.md",
     "4. Indexes/Auditoría de Sistemas.md",
     "4. Indexes/Calidad de Software.md",
@@ -216,10 +210,6 @@
     "0. Scratch/Glosario/BCP - Business Continuity Plan.md",
     "0. Scratch/Glosario/Multiplicidad.md",
     "API - Application Programming Interface.md",
-    "Constructor del Producto.md",
-    "Capa de Atributos.md",
-    "Apuntes de Clase ( Auditoria ).md",
-    "Procesos de Ejecución.md",
     "0. Scratch/Glosario/AUP - Acceptable use Policy.md",
     "conflict-files-obsidian-git.md",
     "0. Scratch/Glosario/Balanced socorecard (BSC).md",
@@ -227,9 +217,6 @@
     "0. Scratch/Glosario/Business Case.md",
     "0. Scratch/Glosario/Brouter.md",
     "0. Scratch/Glosario/Broadband.md",
-    "0. Scratch/Glosario/Black Box Testing.md",
-    "0. Scratch/Glosario/Biometrics.md",
-    "0. Scratch/Glosario/Benchmarking.md",
     "2. Sources/Investigación Informal",
     "2. Sources/Articulos",
     "2. Sources/CISA",
@@ -237,8 +224,6 @@
     "AAA - Buscador.base",
     "6. Templates/Sources",
     "0. Scratch/Acronimos",
-    "0. Scratch/Glosario",
-    "I",
-    "Archivos OwO.base"
+    "0. Scratch/Glosario"
   ]
 }
