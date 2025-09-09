@@ -25,11 +25,17 @@
 # Topics
 * [[Agilidad]]
 * [[Actores de Gestión de la Integración de Proyectos]]
+* [[Ciclo de Vida del Producto]]
+* [[Creación del Valor]]
+* [[Componentes de la Entrega de Valor]]
+* [[Funciones asociadas con proyectos]]
 * 
 # Sources
 + [[IPMA (International Project Management Association)]]
 + [[Hidoka]]
 + [[PMBoK 6ma edición]]
++ [[PMBoK 7ma Edicion]]
++ [[_ FBoK 3ra edición]]
 + [[PMI]]
 + [[Open Proyect]]
 + 

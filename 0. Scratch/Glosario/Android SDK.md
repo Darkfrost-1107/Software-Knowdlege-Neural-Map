@@ -1,0 +1,1 @@
+Se considera todas las librerías de android 

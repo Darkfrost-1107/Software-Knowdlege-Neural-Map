@@ -1,0 +1,1 @@
+El usuario final actúa de forma directa con el aplicativo 

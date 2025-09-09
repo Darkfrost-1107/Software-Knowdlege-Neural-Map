@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 16336968
       }
+    },
+    {
+      "query": "path:\"3. Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.932796257796258,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 15.5405405405405,
+  "centerStrength": 0.72037422037422,
+  "repelStrength": 17.5675675675676,
   "linkStrength": 1,
-  "linkDistance": 149,
-  "scale": 0.12353848689069678,
+  "linkDistance": 199,
+  "scale": 0.0907858045647238,
   "close": false
 }

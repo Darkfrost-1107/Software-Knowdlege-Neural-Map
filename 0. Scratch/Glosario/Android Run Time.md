@@ -1,0 +1,2 @@
+Android usa una maquina virtual para ejecutarse,
+Hace que la maquina ejecute las aplicaciones de manera adecuada con el objetivo de optimizar procesos y manejo eficiente de recursos a costo de almacenamiento
