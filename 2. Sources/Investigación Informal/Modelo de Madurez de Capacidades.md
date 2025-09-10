@@ -1,1 +1,0 @@
-Tags: [[procesos de software]]
