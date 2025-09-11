@@ -4,41 +4,41 @@
 Tipo: #SubChapter
 Related: [[Capitulo 1 CISA]]
 # Resumen
-En resumen, la certificación CISA se reconoce debido a su fuerte adherencia a sus estandares , a continuación, los codigos de conducta
+En resumen, la certificación CISA se reconoce debido a su fuerte adherencia a sus estándares , a continuación, los códigos de conducta
 # Topics
 ## ISACA IS Audit and Assurance Standards:
-Se definen algunos requerimientos especificos que todo auditor debe seguir, las cuales deben incluir la siguiente información:
+Se definen algunos requerimientos específicos que todo auditor debe seguir, las cuales deben incluir la siguiente información:
 	* Para los Auditores de Sistemas, el nivel mínimo de desempeño aceptable requerido para cumplir con las responsabilidades profesionales establecidas en el Código de Ética Profesional de ISACA
-	* Para la administación y otros interesaddos, las expectatrivas del profesional es relativo al trabajo de los practicantes
+	* Para la administración y otros interesados, las expectativas del profesional es relativo al trabajo de los practicantes
 	* Para los poseedores del CISA, sus requerimientos de desempeño profesional
 Existen varios niveles de documentación de ISACA:
 	* **Estandares** Proveen requerimientos que se deben cumplir en la auditoria de sistemas, calidad y reportes
-	* **Guías** Proveen una forma de aplicar la auditoria y estandares de calidad, Se deben considerar en como determinar la forma de alcanzar la implementación de los estandares, usar un juicio profesional en su implementación y ser prerparados para justificar cualquier desviación de las guías
-	* **Herramientas** Tecnicas que proveen ejemplos de procesos que un auditor debe seguir cuando se compromete la auditoria, Se da tambien información sobre como encontrar los estandares cuando se completa una auditoría, pero no se especifican los requerimientos de uso
+	* **Guías** Proveen una forma de aplicar la auditoria y estándares de calidad, Se deben considerar en como determinar la forma de alcanzar la implementación de los estándares, usar un juicio profesional en su implementación y ser preparados para justificar cualquier desviación de las guías
+	* **Herramientas** Técnicas que proveen ejemplos de procesos que un auditor debe seguir cuando se compromete la auditoria, Se da también información sobre como encontrar los estándares cuando se completa una auditoría, pero no se especifican los requerimientos de uso
 Se dividen en 3 categorías:
 	* **General** Dan los principios bajo los que operan la auditoria y aseguramiento de calidad de sistemas de información, Se enfocan en la forma en la que se ejecutan las tareas y abordan la ética, la independencia, la objetividad, la diligencia, los conocimientos, las competencias y habilidades de los auditores
 	* **Performance** Se relacionan con los siguientes aspectos del desempeño:
 		* Planificación
-		* Supervición
+		* Supervisión
 		* Alcance
 		* Riesgo
 		* Materialidad
-		* Logistica
-		* Supervisión y asignación de la administación
-		* la auditoría y aseguriamiento de la evidencia
-		* Ejecución del juicio profecional y la debida diligencia
-	* **Reporting** Se enfoca en los tipos de reportes, medios de comunicación e información comuinicada
+		* Logística
+		* Supervisión y asignación de la administración
+		* la auditoría y aseguramiento de la evidencia
+		* Ejecución del juicio profesional y la debida diligencia
+	* **Reporting** Se enfoca en los tipos de reportes, medios de comunicación e información comunicada
 ## ISACA IS Audit and Assurance Guidelines
-Proveen la guia y la orientación de como cumplira con las normas de auditoria y aseguramiento de ISACA,
+Proveen la guía y la orientación de como cumplirá con las normas de auditoria y aseguramiento de ISACA,
 
-Un auditor dee:
-* Considerar las diretrices para ver como implementar las Normas de ISACA
+Un auditor de:
+* Considerar las directrices para ver como implementar las Normas de ISACA
 * Aplicar su criterio profesional a auditorías especificas
 * Ser capaz de justificar cualquier modificación o desviación de las Normas de ISACA
 ## ISACA Code of Professional Ethics
-Guía la conducta profesional de los miembros de ISACA y los titulares dle CISA
+Guía la conducta profesional de los miembros de ISACA y los titulares del CISA
 
-Los titulares debes:
+Los titulares son:
 1. **Responsabilidad** 
    **Apoyar la implementación y fomentar el cumplimiento de las normas** y procedimientos adecuados para la **gobernanza y gestiójn eficaces de los sitemas de TI** y tecnología empresarial, incluyendo:
 	* La auditoría
